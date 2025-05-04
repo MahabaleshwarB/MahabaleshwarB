@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Mahabaleshwar.
 - 👀 I’m very interested in coding.
-- 🌱 I’m currently learning BCA.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working.
 
 <!---
 MahabaleshwarB/MahabaleshwarB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
